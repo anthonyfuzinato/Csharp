@@ -1,0 +1,7 @@
+C:\Users\ESEN\source\repos\exemploAmod9\exemploAmod9\bin\Debug\exemploAmod9.exe.config
+C:\Users\ESEN\source\repos\exemploAmod9\exemploAmod9\bin\Debug\exemploAmod9.exe
+C:\Users\ESEN\source\repos\exemploAmod9\exemploAmod9\bin\Debug\exemploAmod9.pdb
+C:\Users\ESEN\source\repos\exemploAmod9\exemploAmod9\obj\Debug\exemploAmod9.csproj.AssemblyReference.cache
+C:\Users\ESEN\source\repos\exemploAmod9\exemploAmod9\obj\Debug\exemploAmod9.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\source\repos\exemploAmod9\exemploAmod9\obj\Debug\exemploAmod9.exe
+C:\Users\ESEN\source\repos\exemploAmod9\exemploAmod9\obj\Debug\exemploAmod9.pdb
