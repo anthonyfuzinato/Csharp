@@ -1,0 +1,7 @@
+C:\Users\ESEN\source\repos\D2ExB\D2ExB\obj\Debug\D2ExB.csproj.AssemblyReference.cache
+C:\Users\ESEN\source\repos\D2ExB\D2ExB\obj\Debug\D2ExB.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\source\repos\D2ExB\D2ExB\bin\Debug\D2ExB.exe.config
+C:\Users\ESEN\source\repos\D2ExB\D2ExB\bin\Debug\D2ExB.exe
+C:\Users\ESEN\source\repos\D2ExB\D2ExB\bin\Debug\D2ExB.pdb
+C:\Users\ESEN\source\repos\D2ExB\D2ExB\obj\Debug\D2ExB.exe
+C:\Users\ESEN\source\repos\D2ExB\D2ExB\obj\Debug\D2ExB.pdb
