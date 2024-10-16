@@ -74,6 +74,21 @@ namespace D2ExB
             return _consumoMedio;
         }
 
+        public bool ValidarMatricula()
+        {
+            // Utilizado ajuda do chat gpt!!!
+            if (GetMatricula().Length == 8 &&
+                char.IsDigit(GetMatricula()[0]) && char.IsDigit(GetMatricula()[1]) &&
+                GetMatricula()[2] == '-' &&
+                char.IsLetter(GetMatricula()[3]) && char.IsLetter(GetMatricula()[4]) &&
+                GetMatricula()[5] == '-' &&
+                char.IsDigit(GetMatricula()[6]) && char.IsDigit(GetMatricula()[7]))
+            {
+                return true;
+            }
+            return false;
+        }
+
         public override string ExibirDados()
         {
             return $"{base.ExibirDados()}, Marca: {_marca}, Modelo: {_modelo}, Combustível: {_tipoCombustivel}, " +
@@ -81,4 +96,3 @@ namespace D2ExB
         }
     }
 }
-

@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace D2ExB
 {
     public class Veiculo
@@ -49,6 +48,7 @@ namespace D2ExB
         {
             return _proprietario;
         }
+
 
         public virtual string ExibirDados()
         {

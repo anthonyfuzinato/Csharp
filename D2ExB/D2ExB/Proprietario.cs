@@ -49,10 +49,25 @@ namespace D2ExB
             return _numeroIdentificacaoFiscal;
         }
 
+        // Função para transformar o nome no formato APELIDO, Nome
+        public string TransformarNome()
+        {
+            string[] nomes = _nome.Split(' ');
+
+            if (nomes.Length >= 2)
+            {
+                string primeiroNome = nomes[0];  
+                string ultimoNome = nomes[nomes.Length - 1].ToUpper();  
+
+                return $"{ultimoNome}, {primeiroNome}";
+            }
+
+            return _nome; 
+        }
+
         public virtual string ExibirDados()
         {
             return $"Nome: {_nome}, Carta de Condução: {_numeroCartaConducao}, NIF: {_numeroIdentificacaoFiscal}";
         }
     }
 }
-

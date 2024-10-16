@@ -11,10 +11,22 @@ namespace D2ExB
         static void Main(string[] args)
         {
             Proprietario proprietario = new Proprietario("João Silva", "123456789", "987654321");
+
             Automovel automovel = new Automovel("12-AB-34", 2020, proprietario, "BMW", "320i", "Gasolina", 60, 8.5);
 
             Console.WriteLine("Informações do Automóvel:");
             Console.WriteLine(automovel.ExibirDados());
+            
+            if (automovel.ValidarMatricula())
+            {
+                Console.WriteLine("Matrícula válida.");
+            }
+            else
+            {
+                Console.WriteLine("Matrícula inválida.");
+            }
+
+            Console.WriteLine("Nome formatado do proprietário: " + proprietario.TransformarNome());
 
             automovel.SetMarca("Audi");
             automovel.SetModelo("A4");
@@ -25,4 +37,3 @@ namespace D2ExB
         }
     }
 }
-
