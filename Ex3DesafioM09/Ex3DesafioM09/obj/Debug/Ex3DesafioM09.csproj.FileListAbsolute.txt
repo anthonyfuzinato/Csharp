@@ -1,0 +1,7 @@
+C:\Users\ESEN\source\repos\Ex3DesafioM09\Ex3DesafioM09\bin\Debug\Ex3DesafioM09.exe.config
+C:\Users\ESEN\source\repos\Ex3DesafioM09\Ex3DesafioM09\bin\Debug\Ex3DesafioM09.exe
+C:\Users\ESEN\source\repos\Ex3DesafioM09\Ex3DesafioM09\bin\Debug\Ex3DesafioM09.pdb
+C:\Users\ESEN\source\repos\Ex3DesafioM09\Ex3DesafioM09\obj\Debug\Ex3DesafioM09.csproj.AssemblyReference.cache
+C:\Users\ESEN\source\repos\Ex3DesafioM09\Ex3DesafioM09\obj\Debug\Ex3DesafioM09.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\source\repos\Ex3DesafioM09\Ex3DesafioM09\obj\Debug\Ex3DesafioM09.exe
+C:\Users\ESEN\source\repos\Ex3DesafioM09\Ex3DesafioM09\obj\Debug\Ex3DesafioM09.pdb
